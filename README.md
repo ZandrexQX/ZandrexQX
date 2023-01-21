@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Blender
-- 🌱 I’m currently learning C# with Unity
+- 🌱 I’m currently learning in GeekBrains
 
 <!--
 **ZandrexQX/ZandrexQX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
