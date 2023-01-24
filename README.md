@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m working on Blender
-- 🌱 I’m learning on Python, C#
+- 🔭 I’m working in Blender
+- 🌱 I’m learning in Python, C#
 - 🌱 I’m currently learning in GeekBrains
 
 <!--
